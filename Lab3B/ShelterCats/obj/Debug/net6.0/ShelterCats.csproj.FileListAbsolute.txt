@@ -1,0 +1,15 @@
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.csproj.AssemblyReference.cache
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.GeneratedMSBuildEditorConfig.editorconfig
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.AssemblyInfoInputs.cache
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.AssemblyInfo.cs
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.csproj.CoreCompileInputs.cache
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ShelterCats.exe
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ShelterCats.deps.json
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ShelterCats.runtimeconfig.json
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ShelterCats.dll
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ref\ShelterCats.dll
+I:\CSCI1250\Labs\Lab3B\ShelterCats\bin\Debug\net6.0\ShelterCats.pdb
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.dll
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ref\ShelterCats.dll
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.pdb
+I:\CSCI1250\Labs\Lab3B\ShelterCats\obj\Debug\net6.0\ShelterCats.genruntimeconfig.cache

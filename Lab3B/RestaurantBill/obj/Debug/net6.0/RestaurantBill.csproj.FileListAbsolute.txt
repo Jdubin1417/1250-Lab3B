@@ -1,0 +1,15 @@
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.csproj.AssemblyReference.cache
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.GeneratedMSBuildEditorConfig.editorconfig
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.AssemblyInfoInputs.cache
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.AssemblyInfo.cs
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.csproj.CoreCompileInputs.cache
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\RestaurantBill.exe
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\RestaurantBill.deps.json
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\RestaurantBill.runtimeconfig.json
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\RestaurantBill.dll
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\ref\RestaurantBill.dll
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\bin\Debug\net6.0\RestaurantBill.pdb
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.dll
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\ref\RestaurantBill.dll
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.pdb
+I:\CSCI1250\Labs\Lab3B\RestaurantBill\obj\Debug\net6.0\RestaurantBill.genruntimeconfig.cache
